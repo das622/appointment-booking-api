@@ -1,9 +1,4 @@
-# app/data.py
-
-users_db = []
-appointments_db = []
-barber_schedules_db = []
-barber_blocks_db = []
+# app/data.py  (config/constants)
 
 SERVICES = {
     "shape_up": 15,

@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# SQLite database
+barber.db
+
+# OS files
+.DS_Store
